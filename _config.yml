@@ -1,0 +1,14 @@
+layout_spectrum: 0.2143857
+color:
+  saturation: 0.3948376
+  lightness: 0.3734322
+  brandStrength: 0.4828142
+  brandColors:
+    - '#000000'
+    - '#7E7E7E'
+    - '#5E5E5E'
+    - '#202020'
+    - '#3F3F3F'
+  rhythmicContrast: 0.2809834
+typography_spectrum: 0.4205156
+name: Silk Media Solutions
